@@ -2,7 +2,7 @@
    
    ## Yo, I'm chris 👋
 
-<p align="center"> For now I'm just a student <br><br> I'm at the beginning of my journey to become a <strong>Full Stack</strong> developer. See ya!</p>&nbsp;
+<p align="center"> For now I'm just a student <br><br> I'm at the beginning of my journey to become a <strong>Full Stack</strong> developer. </p>&nbsp;
 
  &nbsp;
  &nbsp;
