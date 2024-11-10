@@ -1,9 +1,19 @@
+<img align="right" alt="" height="190px" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif">
 
+<div align="left">
    
-I'm chris 👋
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7D120&width=435&lines=Oi%2C+sou+Chris+%F0%9F%91%8B;Apenas+um+estudante+%F0%9F%92%BB)](https://git.io/typing-svg)
+   <p>Tenho conhecimento em desenvolvimento e atualmente estudo Python.<br>
+   No futuro, pretendo me aventurar em Java.</p><br>
+</div>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+#
+
+![Python](https://img.shields.io/badge/python-1A1A1D?style=for-the-badge&logo=python&logoColor=FFE31A)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1D?style=for-the-badge&logo=javascript&logoColor=FFE31A)&nbsp;
+
+
+
+
 
 
