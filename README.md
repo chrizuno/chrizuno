@@ -2,7 +2,7 @@
 
 <div align="left">
    
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7D120&width=435&lines=Oi%2C+sou+Chris+%F0%9F%91%8B;Apenas+um+estudante+%F0%9F%92%BB)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7D120&width=435&lines=Oi%2C+sou+Chris+%F0%9F%91%8B;Atualmente,+um+estudante+%F0%9F%92%BB)](https://git.io/typing-svg)
    <p>Tenho conhecimento em desenvolvimento web e atualmente estudo Python.<br>
    No futuro, pretendo me aventurar em Java.</p><br>
 </div>
