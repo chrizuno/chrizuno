@@ -3,8 +3,7 @@
 <div align="left">
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7D120&width=435&lines=Oi%2C+me+chamo+Chris+%F0%9F%91%8B;Atualmente,+um+estudante+%F0%9F%92%BB)](https://git.io/typing-svg)
-   <p>Tenho conhecimento em desenvolvimento web, Python e estou atualmente estudando Java.<br>
-   Talvez eu me aventure em IOT no futuro.</p><br>
+   <p>Tenho conhecimento em desenvolvimento web, Python e estou atualmente estudando Java. Talvez eu me aventure em IOT no futuro.</p><br>
 </div>
 
 #
